@@ -1,0 +1,3 @@
+clients => accNum, userName,name, intial balance, remaining balance, transactions:[]
+userName => string unique
+add transaction (add, withdraw)
